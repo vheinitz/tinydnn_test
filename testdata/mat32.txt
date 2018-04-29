@@ -1,0 +1,3 @@
+O normalize 255
+O resize 32,32
+X mat32x32
